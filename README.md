@@ -26,3 +26,8 @@ a [Voxel Engine (link comming soon)](/TODO).
 When I'm bored I really like doing little physic-simulations with [Raylib](https://github.com/raysan5/raylib).
 
 ### I also like people (I know, weird for a dev huh ?)
+
+I helped a manager to manage teams as a dev, basically teaching again programming and HTML to devs.
+
+Correcting errors, or should I say, horrors, like the famous (/irony) HTML tag `<FONT size='5pt'>`.
+
