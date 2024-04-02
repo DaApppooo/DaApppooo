@@ -29,5 +29,3 @@ When I'm bored I really like doing little physic-simulations with [Raylib](https
 
 ### I also like people (I know, weird for a dev huh ?)
 
-I helped a manager to manage teams as a dev, basically teaching again programming and HTML to devs.
-
