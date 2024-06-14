@@ -17,4 +17,4 @@ with modern cool features), and a [Eupie](https://github.com/TheEupieProject) (a
 tool because accessibility matters). I'm currently solo-ing all of this, but if someone wants to join do not
 hesitate. Also, I'm heading toward a CS PhD.
 
-When I'm bored I really like doing little physic-simulations with [Raylib](https://github.com/raysan5/raylib).
+When I'm bored I really like doing little games or simulations with [Raylib](https://github.com/raysan5/raylib).
