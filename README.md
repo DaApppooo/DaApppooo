@@ -34,7 +34,7 @@ See my little python script [tmpc](https://github.com/DaAppoxy/tmpc-bm).
 - The `destroy()` member should destroy all owned attributes and modify the attributes so that this method can then be called again without risking any error.
   Usually, the value of a destroyed structure and an initialized one should be the same.
 - OOP features of C++ should be avoided when possible (vtable, all types of C++ style initialization methods, C++ style destructor method)
-  To copy, use the `copy()` method. (or `deepcopy()` if it makes sense in context)
-  To give ownership, use `disown()`.
-  To take ownership, use `own()`.
-  To explicitly 
+  - To copy, use the `copy()` method. (or `deepcopy()` if it makes sense in context)
+  - To give ownership, use `disown()`.
+  - To take ownership, use `own()`.
+  - To give a reference, use `assign()`.
