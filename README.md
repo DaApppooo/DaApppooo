@@ -40,7 +40,7 @@ See my little python script [tmpc](https://github.com/DaAppoxy/tmpc-bm).
 - Prefer C's standard library over C++'s for two main reasons:
   - More likely to need OS specific functions. This allows some optimizations for each target OS.
   - Sometimes help avoid unnecessary memory allocation and/or C++'s bloat (often due to conversions between non std C++ code and std C++ code).
-- Avoid OOP approach, and when OOP is used, prefer rust's `impl` style of OOP (enums, unions and switches).
+- When writing OOP code, prefer rust's `impl` style of OOP (enums, unions and switches).
 - The DEBUG flag can be enabled either:
   - During specific tests
   - At all time during development
