@@ -1,7 +1,7 @@
 
 # 💜 Hi there 👋
 
-## _`$ whoami`_
+## All about me
 
 > I'm a dev who <3 everything about `computers` and $math$ (social sciences are cool also !).
 
@@ -9,6 +9,7 @@ I handle a bunch of different languages, mainly python for prototyping and then
 C or C++ for production.
 
 I **LOVE** learning about new stuff, and I usually code a lot in my spare time. I've been coding for about 8 years now. I'm a CS student and I'm going for a CS PhD. Most of my projects are on private repos.
+I'm really interesed in low-level stuff.
 
 When I'm bored I really like doing little games or simulations with [Raylib](https://github.com/raysan5/raylib).
 
