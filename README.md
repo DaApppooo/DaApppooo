@@ -46,4 +46,7 @@ See my little python script [tmpc](https://github.com/DaAppoxy/tmpc-bm).
   - At all time during development
 - The PRODUCTION flag can be enabled only if:
   - most asserts are unnecessary when the program is being ran with production input
-  - other safety checks have been tested and do not occur
+  - no `todo()` or `TODO()` (depending on the codebase) is left
+  - no `unexpected()` or `UNEXPECTED()` (depending on the codebase) is left
+
+<sub>chessbattleadvanced</sub>
