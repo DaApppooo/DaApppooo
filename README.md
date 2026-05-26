@@ -1,21 +1,26 @@
 
 # 💜 Hi there 👋
 
-## All about me
+## All about me :3
 
 > I'm a dev who <3 everything about `computers` and $math$ (social sciences are cool also !).
 
-I handle a bunch of different languages, mainly python for prototyping and then
-C or C++ for production.
+I handle a bunch of different languages, mainly python for prototyping and scripting and then C or C++ for production.
 
-I **LOVE** learning about new stuff, and I usually code a lot in my spare time. I've been coding for about 8 years now. I'm a CS student and I'm going for a CS PhD. Most of my projects are on private repos.
-I'm really interesed in low-level stuff.
+I **LOVE** learning about new stuff, and I usually code a lot in my spare time. I've been coding for about 9 years now. I'm a CS student and I'm going for a CS PhD. Most of my projects are on private repos.
+I'm really interesed in low-level stuff, languages (not just programming) and the brain.
 
 When I'm bored I really like doing little games or simulations with [Raylib](https://github.com/raysan5/raylib).
 
-## For binge coding
+## My philosophy (as a dev)
 
-See my little python script [tmpc](https://github.com/DaAppoxy/tmpc-bm).
+- The developper, the programmer and the user must all have as much control as you can give them on the code you write. Hiding is wrong, warning is better.
+- Small and simple is better, make your complex out of smalls and simples.
+- Interpreted is for scripting, compiled is for software.
+- Types provide meaning.
+- Functions are divided in two categories: filters and maps. Filters select data, maps mutate data.
+- Code is compiled, data is interpreted. Code is not data, at least not in a cross-platform context.
+- Undefined behavior is not the end.
 
 ## My programming ruleset and expected behavior (some of these only apply for C++)
 
