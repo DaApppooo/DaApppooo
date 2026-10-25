@@ -35,7 +35,7 @@ When I'm bored I really like doing little games or simulations with [Raylib](htt
 - Prefer static constructors (in the style of rust), they're way more explicit about what you're doing and which way of constructing the type you want. When 'new' is a keyword, use 'init' instead.
 - All destroyable and/or movable types must have an init state. The 'init' constructor and/or method must put the type back in its init state.
 - Copies must be explicit (with the `.copy()` method). Moves must be explicit (with the `.drop()` method). The defauly way of passing arguments must be C-style. In C, if you don't use a function to cleanly move or copy the object with it's allocations, the allocations will be shared. Because of this rule, rvalue-references should only be used to recieve prvalues. Also, the `.drop()` method should put the object back in its init state.
-- The `destroy()` member should destroy all owned attributes and modify the attributes so that this method can then be called again without risking any error.
+- The `drop()` member should destroy all owned attributes and modify the attributes so that this method can then be called again without risking any error.
   Usually, the value of a destroyed structure and an initialized one should be the same.
 - OOP features of C++ should be avoided when possible (vtables, all types of C++ style constructors and destructors)
 - Prefer C's standard library over C++'s for two main reasons:
